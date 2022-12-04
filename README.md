@@ -1,2 +1,2 @@
 # NLP-Semantics-project
-Pet academic project, to extract construction requirements off client's order 
+Pet academic project, to extract construction requirements from client's order 
